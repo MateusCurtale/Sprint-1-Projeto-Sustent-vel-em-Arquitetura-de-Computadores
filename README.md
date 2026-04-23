@@ -69,6 +69,7 @@ sw t5, 0x40000040
 # Economia de energia
 wfi
 j main
+´´´
 
 ## Relação com Eficiência e Sustentabilidade 
 A solução impacta diretamente: 
