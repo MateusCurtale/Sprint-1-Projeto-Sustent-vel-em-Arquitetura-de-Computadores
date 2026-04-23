@@ -7,8 +7,8 @@ Sistema Inteligente de Recarga com Baixo Consumo Computacional
 - Vinicius Sanches Chiarle - 568846 
 - Mateus Felipe Curtale Serafim - 571129 
 - Rafaella Ferreira De Moraes  -  571030 
--Aneliza Rondina Bonafé - 572977 
--Jeferson dos Santos Oliveira - 572594 
+- Aneliza Rondina Bonafé - 572977 
+- Jeferson dos Santos Oliveira - 572594 
 
  
 ##🚨 Problema 
