@@ -10,8 +10,7 @@ Sistema Inteligente de Recarga com Baixo Consumo Computacional
 - Aneliza Rondina Bonafé - 572977 
 - Jeferson dos Santos Oliveira - 572594 
 
- 
-#🚨 Problema 
+## 🚨 Problema 
 Eletropostos utilizam software de alto nível e hardware genérico, resultando em alto consumo energético e baixa eficiência computacional. 
  
 ## 📌 Justificativa 
