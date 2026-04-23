@@ -1,4 +1,4 @@
-# Sprint-1-Projeto-Sustent-vel-em-Arquitetura-de-Computadores
+# Sprint-1-Projeto-Sustentavel-em-Arquitetura-de-Computadores
 
 # Projeto RAIOS 
 Sistema Inteligente de Recarga com Baixo Consumo Computacional 
