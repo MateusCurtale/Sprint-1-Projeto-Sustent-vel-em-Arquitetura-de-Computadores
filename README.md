@@ -22,7 +22,7 @@ Desenvolver um módulo em Assembly para controlar:
 - Monitoramento de energia 
 - Controle de carga 
  
-##️ Arquitetura Utilizada 
+## Arquitetura Utilizada 
 - RISC-V 
 - Pipeline 
 - Execução otimizada 
@@ -71,14 +71,14 @@ wfi
 j main
 ```
 
-## Relação com Eficiência e Sustentabilidade 
+# Relação com Eficiência e Sustentabilidade 
 A solução impacta diretamente: 
 Eficiência Energética 
 ● menos ciclos de CPU → menor consumo elétrico 
 ● menor dissipação de calor 
-# Sustentabilidade 
+## Sustentabilidade 
 ● redução da pegada energética dos sistemas 
 ● maior eficiência em larga escala 
-# Integração com Energias Renováveis 
+## Integração com Energias Renováveis 
 ● melhor aproveitamento de energia solar ou outras fontes 
 ● menor desperdício computacional em sistemas inteligentes
